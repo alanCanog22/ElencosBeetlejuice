@@ -1,0 +1,32 @@
+@font-face {
+    font-family: CaslonAntique;
+    src: url(Fonts/CaslonAntique-Bold.ttf);
+}
+
+p{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 60px;
+    font-family: CaslonAntique;
+}
+
+h2{
+    font-family: CaslonAntique;
+    text-align: center;
+}
+
+.form-floating{
+    margin: 20px;
+}
+
+img{
+    width: 100%;
+}
+
+label{
+    font-family: CaslonAntique;
+    font-size: 1.2rem;
+}
+
+
+
