@@ -28,5 +28,11 @@ label{
     font-size: 1.2rem;
 }
 
+.boton{
+    display: flex;
+    justify-content: center;
+}
+
+
 
 
